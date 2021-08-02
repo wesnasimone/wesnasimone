@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/wesnasimone">
  <p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesnasimone&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&bg_color=60,DB7093,FFB6C1,FFC0CB"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesnasimone&layout=compact&langs_count=7&theme=monokai&bg_color=60,DB7093,FFB6C1,FFC0CB"/></p>
+   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesnasimone&layout=compact&langs_count=7&theme=monokai&bg_color=60,DB7093,FFB6C1,FFC0CB"/>--></p>
 </div>
   
   <div>
